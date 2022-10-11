@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.hms.ownerms.OwnerMokitoTests&apos; to &apos;OwnerMockitoTests&apos;&#x0D;&#x0A;- Original project: &apos;owner-ms&apos;&#x0D;&#x0A;- Original element: &apos;com.hms.ownerms.OwnerMokitoTests&apos;&#x0D;&#x0A;- Renamed element: &apos;com.hms.ownerms.OwnerMockitoTests&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;OwnerMokitoTests&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.hms.ownerms{OwnerMokitoTests.java[OwnerMokitoTests" matchStrategy="1" name="OwnerMockitoTests" qualified="false" references="true" similarDeclarations="false" stamp="1661351351018" textual="false" version="1.0"/>
+</session>
